@@ -1,7 +1,7 @@
 This project is a Streamlit web app that uses Google’s Gemini API to classify movie reviews into Positive, Negative, or Neutral.
 It also provides a confidence score, a short explanation, and key evidence phrases.
 
-🚀 Features
+ Features
 
 Paste a movie review and analyze sentiment instantly.
 
